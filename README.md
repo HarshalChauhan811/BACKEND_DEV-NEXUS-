@@ -1,4 +1,4 @@
-# 🚀 BACKEND_DEV-NEXUS+  
+.# 🚀 BACKEND_DEV-NEXUS+  
 ### Industry-Grade Backend Engineering | System Design | AI | Real-Time Systems 
 
 > **NEXUS+ Official Backend Repository**  
@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 Author
-**Harshal Chauhan**  
+**Harshal Chauhan**     
 Backend Developer • System Design • AI • Blockchain  
 
 🔗 LinkedIn: https://www.linkedin.com/in/harshal8411  
