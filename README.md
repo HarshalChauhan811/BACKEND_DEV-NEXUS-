@@ -21,7 +21,7 @@ Backend Developer • System Design • AI • Blockchain
 This repository focuses on:
 - Backend internals (not just APIs)
 - Production-level practices
-- System design mindset
+- System design mindset. 
 - Scalability & performance
 
 👉 If you follow this repo properly, you’ll start **thinking like a backend engineer**, not a tutorial follower.
